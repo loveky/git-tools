@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Wrote by loveky <ylzcylx@gmail.com> <http://loveky.me>
+# Wrote by loveky <ylzcylx@gmail.com> <http://loveky2012.blogspot.com>
 #
 # This script is used to find large files in your repo
 #
