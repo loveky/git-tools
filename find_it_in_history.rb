@@ -3,6 +3,7 @@
 # Author: loveky <ylzcylx@gmail.com>
 # Blog  : http://loveky2012.blogspot.com
 
+# Given a file, the path of the file in the repo and a path to local repo. Check in which commit the given file was first introduced in
 #Usage: find_it_in_history.rb --file <file> --repo <path/to/repo> --path_in_repo <file/path/in/repo>
 
 require 'digest/sha1'
