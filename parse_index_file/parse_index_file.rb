@@ -4,6 +4,7 @@
 # Blog  : http://loveky2012.blogspot.com
 
 # This script will parse the given index file and output all entries in it.
+# run 'parse_index_file.rb -h' for help message
 
 $: << File.dirname(__FILE__) 
 require 'bindata'
